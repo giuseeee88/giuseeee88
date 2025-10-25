@@ -2,7 +2,7 @@
 🔭 I’m currently working on UninaSwap<br>🌱 I’m currently learning discrete algebra<br>💬 Ask me about my projects!
 
 
-# 🌐 Socials
+## 🌐 Socials
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com) 
 
 # 💻 Tech Stack
