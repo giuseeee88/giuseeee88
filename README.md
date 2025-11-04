@@ -1,5 +1,5 @@
 ## 💫 About Me
-🔭 I’m currently working on UninaSwap<br>🌱 I’m currently learning discrete algebra<br>💬 Ask me about my projects!
+🔭 I’m currently working on UninaSwap<br>🌱 I’m currently learning geometry<br>💬 Ask me about my projects!
 
 
 ## 📌 Email
