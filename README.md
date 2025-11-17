@@ -1,5 +1,5 @@
 ## 💫 About Me
-🔭 I’m currently working on UninaSwap<br>🌱 I’m currently learning geometry<br>💬 Ask me about my projects!
+🔭 I’m currently working on the implementation of Data Structres in Java<br>🌱 I’m currently learning theoretical computer science<br>💬 Ask me about my projects!
 
 
 ## 📌 Email
