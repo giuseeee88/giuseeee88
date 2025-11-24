@@ -1,10 +1,10 @@
-## 💫 Informazioni sui miei interessi
+# 💫 Informazioni sui miei interessi
 🔭 Attualmente sto lavorando alla progettazione e all'implementazione in Java delle strutture dati fondamentali<br>
 🌱 Sto studiando i concetti di informatica teorica, più precisamente la teoria della computabilità<br>
-Di seguito sono riportate le mie principali competenze
 <br>
 
-### 📌 Email
+# 💼 Le mie principali competenze
+## 📌 Email
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com) 
 
 ## 🌐 Web Development
