@@ -4,7 +4,7 @@
 Di seguito sono riportate le mie principali competenze
 <br>
 
-## 📌 Email
+### 📌 Email
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com) 
 
 ## 🌐 Web Development
