@@ -1,6 +1,9 @@
-## 💫 About Me
-🔭 I’m currently working on the implementation of Data Structres in Java<br>🌱 I’m currently learning theoretical computer science<br>💬 Ask me about my projects!
+## 💫 Informazioni sui miei interessi
+🔭 Attualmente sto lavorando alla progettazione e all'implementazione in Java delle strutture dati fondamentali<br>
+🌱 Sto studiando i concetti di informatica teorica, più precisamente la teoria della computabilità<br>
+💭 "Either mathematics is too big for the human mind or the human mind is more than a machine", Kurt Godel
 
+<br>
 
 ## 📌 Email
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com) 
