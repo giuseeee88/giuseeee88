@@ -3,9 +3,10 @@
 🌱 Sto studiando i concetti di informatica teorica, più precisamente la teoria della computabilità<br>
 <br>
 
+# 📌 Contatti
+[![Contattami per email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com) 
+
 # 💼 Le mie principali competenze
-## 📌 Email
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com) 
 
 ## 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
