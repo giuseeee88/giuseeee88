@@ -1,5 +1,5 @@
 # 💫 Informazioni sui miei interessi
-🔭 Attualmente sto lavorando alla progettazione e all'implementazione in Java delle strutture dati fondamentali<br>
+🔭 Attualmente sto lavorando alla progettazione e all'implementazione di strutture dati fondamentali in Java<br>
 🌱 Sto studiando i concetti di informatica teorica, più precisamente la teoria della computabilità<br>
 <br>
 
