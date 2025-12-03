@@ -47,9 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuseeee88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"     alt="Top Languages" />
 </div>
 
-<br/>
-<br/>
-
 [![](https://visitcount.itsvg.in/api?id=giuseeee88&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](resources//snake.svg)
