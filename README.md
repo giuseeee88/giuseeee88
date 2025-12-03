@@ -1,7 +1,7 @@
 # 💫 Informazioni sui miei interessi
 🔭 Attualmente sto lavorando alla progettazione e all'implementazione di strutture dati fondamentali in Java<br>
 🌱 Sto studiando i concetti di informatica teorica, più precisamente la teoria della computabilità<br>
-<br>
+<br/>
 
 # 📌 Contatti
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com) 
@@ -43,8 +43,12 @@
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=giuseeee88&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuseeee88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"     alt="Top Languages" />
 </div>
+
+<br/>
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=giuseeee88&icon=0&color=0)](https://visitcount.itsvg.in)
 
