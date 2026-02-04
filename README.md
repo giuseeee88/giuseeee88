@@ -1,6 +1,7 @@
 # 💫 Informazioni sui miei interessi
-🔭 Attualmente sto lavorando alla progettazione e all'implementazione di strutture dati fondamentali in Java<br>
-🌱 Sto studiando i concetti di informatica teorica, più precisamente la teoria della computabilità<br>
+🔭 Attualmente sto lavorando alla realizzazione di un programma per la codifica di ennuple mediante la funzione di Pairing e i Numeri di Gödel in Python<br/>
+🌱 Sto studiando i concetti di informatica teorica, più precisamente la teoria della computabilità<br/>
+
 <br/>
 
 # 📌 Contatti
