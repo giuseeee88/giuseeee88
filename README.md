@@ -2,8 +2,6 @@
 🔭 Attualmente sto lavorando alla realizzazione di un programma per la codifica di ennuple mediante la funzione di Pairing e i Numeri di Gödel in Python<br/>
 🌱 Sto studiando i concetti di informatica teorica, più precisamente la teoria della computabilità<br/>
 
-<br/>
-
 # 📌 Contatti
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com) 
 
