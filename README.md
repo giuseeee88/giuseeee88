@@ -1,6 +1,6 @@
 # 💫 Informazioni sui miei interessi
-🔭 Attualmente sto lavorando alla realizzazione di un programma per la codifica di ennuple mediante la funzione di Pairing e i Numeri di Gödel in Python<br/>
-🌱 Sto studiando analisi 1<br/>
+🔭 Informatica teorica, linguaggi di programmazione, crittografia post-quantum, algebra lineare, algebra discreta<br/>
+🌱 Attualmente sto studiando la programmazione logica<br/>
 
 # 📌 Contatti
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com) 
