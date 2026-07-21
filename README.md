@@ -21,7 +21,8 @@
 ![ML](https://img.shields.io/badge/ml-%23007ACC.svg?style=for-the-badge&logoColor=white) ![Prolog](https://img.shields.io/badge/prolog-%23ED8B00.svg?style=for-the-badge&logoColor=white)
 
 ## 🗄️ DBMS
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+
 > [!NOTE]
 > Ho anche utilizzato dei linguaggi procedurali proprietari offerti da DBMS come PL/SQL di Oracle e PL/pgSQL di PostgreSQL.
 
