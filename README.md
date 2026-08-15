@@ -41,8 +41,7 @@
 
 # 📊 Statistiche GitHub
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=giuseeee88&theme=dark&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=giuseeee88&layout=compact&theme=dark)](https://github.com/giuseeee88)
   <br/>
+  ![](resources//snake.svg)
 </div>
-
-![](resources//snake.svg)
