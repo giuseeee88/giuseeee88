@@ -48,6 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuseeee88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=giuseeee88&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=giuseeee88)](https://github.com/stats-organization/github-stats-extended)
 
 ![](resources//snake.svg)
