@@ -41,6 +41,6 @@
 
 # 📊 Statistiche GitHub
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=giuseeee88"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=giuseeee88&layout=compact&theme=dark"/>
   <img src="resources//snake.svg"/>
 </div>
