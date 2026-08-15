@@ -41,6 +41,6 @@
 
 # 📊 Statistiche GitHub
 <br/>
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=giuseeee88&layout=compact&theme=dark)](https://github.com/giuseeee88)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=giuseeee88)](https://github.com/giuseeee88)
 <br/>
 ![](resources//snake.svg)
