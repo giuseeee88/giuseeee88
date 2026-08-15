@@ -41,5 +41,5 @@
 
 # 📊 Statistiche GitHub
 <div align="center">
-  <img src="resources/snake.svg"/>
+  <img src="resources//snake.svg"/>
 </div>
