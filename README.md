@@ -40,7 +40,10 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 # 📊 Statistiche GitHub
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=giuseeee88&layout=compact&theme=dark"/>
+<div align="center"">
+  <div align="center" style="margin: auto';">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=giuseeee88&layout=compact&theme=dark"/>
+  </div>
+  <br/>
   <img src="resources//snake.svg"/>
 </div>
