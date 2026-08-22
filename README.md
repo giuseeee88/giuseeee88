@@ -1,5 +1,5 @@
 # 💫 Informazioni sui miei interessi
-🔭 Informatica teorica, linguaggi di programmazione, complessità computazionale, crittografia post-quantum, matematica discreta<br/>
+🔭 Informatica teorica, linguaggi di programmazione, crittografia post-quantum, matematica discreta<br/>
 🌱 Attualmente sto studiando il sistema operativo UNIX<br/>
 
 # 📌 Contatti
