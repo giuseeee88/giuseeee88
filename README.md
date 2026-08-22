@@ -42,9 +42,7 @@ Attualmente sto studiando il sistema operativo UNIX<br/>
 
 ## 📊 Statistiche GitHub
 <div align="center"">
-  <div align="center" style="margin: auto';">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=giuseeee88&layout=compact&theme=dark"/>
-  </div>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=giuseeee88&layout=compact&theme=dark"/>
   <br/>
   <img src="resources//snake.svg"/>
 </div>
