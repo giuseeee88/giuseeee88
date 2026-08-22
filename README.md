@@ -5,7 +5,7 @@ Informatica teorica, linguaggi di programmazione, crittografia post-quantum, mat
 Attualmente sto studiando il sistema operativo UNIX<br/>
 
 # 📌 Contatti
-[![Email]([https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white))](mailto:giuseppecaut57@gmail.com)
+[![Email](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com)
 
 # 💼 Le mie principali competenze
 ## 🌐 Web Development
