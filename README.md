@@ -1,6 +1,6 @@
 # 💫 Informazioni sui miei interessi
 🔭 Informatica teorica, linguaggi di programmazione, crittografia post-quantum, matematica discreta<br/>
-🌱 Attualmente sto studiando i sistemi operativi (UNIX)<br/>
+🌱 Attualmente sto studiando sistemi operativi<br/>
 
 # 📌 Contatti
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com) 
