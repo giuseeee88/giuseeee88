@@ -2,7 +2,7 @@
 ### 🔭 Interessi di ricerca
 Informatica teorica, linguaggi di programmazione, crittografia post-quantum, matematica discreta<br/>
 ### 🌱 Studio
-Attualmente sto studiando il sistema operativo UNIX<br/>
+Attualmente sto studiando i principali framework per il web development, in particolare React<br/>
 
 ## 📌 Contatti
 [![Email](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com)
