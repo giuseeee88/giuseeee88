@@ -1,6 +1,6 @@
 ## 💫 Informazioni sui miei interessi
 ### 🔭 Interessi di ricerca
-Informatica teorica, linguaggi di programmazione, crittografia post-quantum, matematica discreta<br/>
+Informatica teorica, tecnologie web, linguaggi di programmazione, crittografia post-quantum, matematica discreta<br/>
 ### 🌱 Studio
 Attualmente sto studiando i principali framework per il web development, in particolare React<br/>
 
