@@ -1,7 +1,7 @@
 ## 💫 My interests
 ### 🔭 Research interests
 Theoretical computer science, web technologies, programming languages, AI, post-quantum cryptography, discrete math<br/>
-### 🌱 Studio
+### 🌱 Study
 Actually I'm studying the main frameworks and libraries web development, in particular React.JS<br/>
 
 ## 📌 Contacts
