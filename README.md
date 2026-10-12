@@ -1,14 +1,14 @@
-## 💫 Informazioni sui miei interessi
-### 🔭 Interessi di ricerca
-Informatica teorica, tecnologie web, linguaggi di programmazione, crittografia post-quantum, matematica discreta<br/>
+## 💫 My interests
+### 🔭 Research interests
+Theoretical computer science, web technologies, programming languages, AI, post-quantum cryptography, discrete math<br/>
 ### 🌱 Studio
-Attualmente sto studiando i principali framework per il web development, in particolare React<br/>
+Actually I'm studying the main frameworks and libraries web development, in particular React.JS<br/>
 
-## 📌 Contatti
+## 📌 Contacts
 [![Email](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com)
 
-## 💼 Le mie principali competenze
-### 💻 Linguaggi
+## 💼 Main skills
+### 💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ML](https://img.shields.io/badge/ml-%23007ACC.svg?style=for-the-badge&logoColor=white)
 ![Prolog](https://img.shields.io/badge/prolog-%23ED8B00.svg?style=for-the-badge&logoColor=white)
@@ -29,7 +29,7 @@ Attualmente sto studiando i principali framework per il web development, in part
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 
 > [!NOTE]
-> Ho anche utilizzato dei linguaggi procedurali proprietari offerti da DBMS come PL/SQL di Oracle e PL/pgSQL di PostgreSQL.
+> I also used procedural languages offered by DBMS like PL/SQL by Oracle and PL/pgSQL by PostgreSQL.
 
 ### 🧩 Frameworks
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
@@ -38,7 +38,7 @@ Attualmente sto studiando i principali framework per il web development, in part
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### ⚙️ Altre skill
+### ⚙️ Other skills
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -46,7 +46,7 @@ Attualmente sto studiando i principali framework per il web development, in part
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 Statistiche GitHub
+## 📊 GitHub stats
 <div align="center"">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=giuseeee88&layout=compact&theme=dark"/>
   <br/>
