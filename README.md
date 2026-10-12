@@ -2,7 +2,7 @@
 ### 🔭 Research interests
 Theoretical computer science, web technologies, programming languages, AI, post-quantum cryptography, discrete math<br/>
 ### 🌱 Study
-Actually I'm studying the main frameworks and libraries web development, in particular React.JS<br/>
+Actually I'm studying the main frameworks and libraries of web development, in particular React.JS<br/>
 
 ## 📌 Contacts
 [![Email](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuseppecaut57@gmail.com)
